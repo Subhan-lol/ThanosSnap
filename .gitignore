@@ -1,0 +1,9 @@
+# your room photo - personal, and the app makes a new one on first run
+empty_room.png
+
+# AI models - downloaded automatically on first run
+models/
+*.part
+
+__pycache__/
+*.pyc
